@@ -1,0 +1,36 @@
+body{background-color:gainsboro;
+display: flex;}
+.form{ background-color: white;
+border-radius: 10px;
+float: left;
+margin-top: 50px;
+width: 480px;
+}
+.form img{ width: 200px;
+height: 100px;
+margin-left: 40px;}
+.form h2{ margin-left: 40px;
+font-size: 20px;
+font-family: Arial;}
+.form h3{margin-left: 40px;
+    font-size: 20px;
+    font-family: Arial; }
+    .form input{margin-left: 60px;
+    border-color: black;}
+    .form p{margin-left: 40px;
+font-weight: bold;}
+.form button>a{margin-left: 40px;
+}
+.free{margin-top: 50pxpx;
+border-radius: 10px;
+}
+.free img{margin-top: 50px;
+    margin-left: 25px;
+border-radius: 10px;}
+        
+        
+
+
+
+
+    
